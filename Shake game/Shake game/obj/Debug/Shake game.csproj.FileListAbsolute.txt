@@ -1,0 +1,10 @@
+C:\Users\админ\Desktop\лабы\Shake game\Shake game\bin\Debug\Shake game.exe.config
+C:\Users\админ\Desktop\лабы\Shake game\Shake game\bin\Debug\Shake game.exe
+C:\Users\админ\Desktop\лабы\Shake game\Shake game\bin\Debug\Shake game.pdb
+C:\Users\админ\Desktop\лабы\Shake game\Shake game\obj\Debug\Shake game.csprojAssemblyReference.cache
+C:\Users\админ\Desktop\лабы\Shake game\Shake game\obj\Debug\Shake_game.mainWindow.resources
+C:\Users\админ\Desktop\лабы\Shake game\Shake game\obj\Debug\Shake_game.Properties.Resources.resources
+C:\Users\админ\Desktop\лабы\Shake game\Shake game\obj\Debug\Shake game.csproj.GenerateResource.cache
+C:\Users\админ\Desktop\лабы\Shake game\Shake game\obj\Debug\Shake game.csproj.CoreCompileInputs.cache
+C:\Users\админ\Desktop\лабы\Shake game\Shake game\obj\Debug\Shake game.exe
+C:\Users\админ\Desktop\лабы\Shake game\Shake game\obj\Debug\Shake game.pdb
